@@ -1,0 +1,58 @@
+{
+    "users": [
+        {
+            "firstName": "小鸡",
+            "lastName": "张",
+            "email": "666@qq.com",
+            "dateOfBirth": "6.6",
+            "address": {
+                "street": "小鸡街",
+                "city": "小鸡市",
+                "state": "小鸡州",
+                "zipCode": 888999
+            },
+            "preferences": {
+                "theme": "farm",
+                "language": "咯咯哒",
+                "notifications": false,
+                "subscription": true
+            }
+        },
+        {
+            "firstName": "乌龟",
+            "lastName": "张",
+            "email": "888@qq.com",
+            "dateOfBirth": "8.8",
+            "address": {
+                "street": "乌龟路",
+                "city": "乌龟市",
+                "state": "乌龟州",
+                "zipCode": "999888"
+            },
+            "preferences": {
+                "theme": "river",
+                "language": "中文",
+                "notifications": true,
+                "subscription": true
+            }
+        },
+        {
+            "firstName": "青蛙",
+            "lastName": "张",
+            "email": "123@qq.com",
+            "dateOfBirth": "1.1",
+            "address": {
+                "street": "青蛙路",
+                "city": "青蛙市",
+                "state": "青蛙州",
+                "zipCode": "999222"
+            },
+            "preferences": {
+                "theme": "river",
+                "language": "呱呱呱",
+                "notifications": true,
+                "subscription": true
+            }
+        }
+    ]
+}
